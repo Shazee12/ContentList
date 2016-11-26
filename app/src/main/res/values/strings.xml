@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentList</string>
+    <string name="createButton">Add Contact</string>
+    <string name="updateButton">Modify Contact</string>
+    <string name="deleteButton">Delete Contact</string>
+
+</resources>
